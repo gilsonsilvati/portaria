@@ -10,9 +10,9 @@ header {
 	height: 30px;
 	background-color: #545454;
 	color: #fff;
-	box-shadow: 0px 2px 2px #ccc
+	box-shadow: 0px 4px 4px #ccc;
 }
 
 #conteudo {
-	padding: 15px
+	padding: 15px;
 }
