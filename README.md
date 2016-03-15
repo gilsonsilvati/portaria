@@ -1,2 +1,2 @@
 # portaria.com.br
->> Sisteminha de portaria para controle de acesso.
+>> Sistema de portaria para controle de acesso.
